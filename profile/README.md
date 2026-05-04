@@ -1,3 +1,5 @@
+<img width="3336" height="1663" alt="Mw" src="https://github.com/user-attachments/assets/4fc79653-062a-4252-8867-89c78c989418" />
+
 # MayWave
 > 기억은 멈추지 않는다.  
 > 우리는 그날의 이야기를 다시 흐르게 만든다.
