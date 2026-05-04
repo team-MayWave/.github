@@ -1,12 +1,32 @@
-## Hi there 👋
+# MayWave
+> 기억은 멈추지 않는다.  
+> 우리는 그날의 이야기를 다시 흐르게 만든다.
 
-<!--
+**MayWave**는 1980년 5월, 광주에서 시작된 이야기를
+사용자가 직접 **선택하고, 체험하고, 이어가는** 인터랙티브 스토리 앱입니다.
 
-**Here are some ideas to get you started:**
+우리는 단순히 역사를 전달하지 않습니다.
+사용자가 그날의 인물이 되어,
+각자의 선택 속에서 역사를 **느끼고 이해할 수 있도록** 만듭니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🌓 About?
+
+‘May’는 5월,
+‘Wave’는 그날 이후 퍼져나간 **기억과 변화의 흐름**을 의미합니다.
+
+우리는 그 흐름이 끊기지 않도록,
+기술로 기록하고, 경험으로 전달합니다.
+
+---
+
+ ## Our Goal
+
+우리는 질문합니다.
+
+“만약 내가 그날 그 자리에 있었다면, 어떤 선택을 했을까?”
+
+MayWave는
+과거를 보여주는 것이 아니라,
+**현재의 사용자에게 선택을 던지는 경험**을 만듭니다.
